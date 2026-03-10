@@ -1,4 +1,4 @@
-# Zephron: Robot Arm Controller with VGA Dashboard and PS/2 Input
+# Silicone: Robot Arm Controller with VGA Dashboard and PS/2 Input
 ![zephron](zephron.jpg)
 
 ## Overview
